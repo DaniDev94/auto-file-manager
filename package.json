@@ -1,0 +1,14 @@
+{
+  "type": "module",
+  "name": "download-all-factorialhr-files",
+  "version": "1.0.0",
+  "description": "Download all files of a specific user from the factorialhr page",
+  "main": "index.js",
+  "scripts": {
+    "download": "node index.js"
+  },
+  "dependencies": {
+    "axios": "1.6.7",
+    "fs": "0.0.1-security"
+  }
+}
