@@ -1,4 +1,5 @@
 # download-factorialhr-files
+
 This repository arises out of necessity and serves to download all the files from the factorialhr website. This is because the website lacks a button/functionality to download them all at once, requiring manual download of each file one by one.
 
 ## Installation
@@ -21,5 +22,8 @@ npm run download
 
 4. And enjoy your files, young dev Jedi!!!
 
+<center>
+
 ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHQwZ3k2bmQxYjdocGdkcDQ4bWkzMWljbHl0Y3ZyOWhrdXlxaW5qOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ornjSL2sBcPflIDiU/giphy.gif)
 
+</center>
