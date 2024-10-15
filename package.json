@@ -5,7 +5,8 @@
   "description": "Download all files of a specific user from the factorialhr page",
   "main": "index.js",
   "scripts": {
-    "download": "node index.js"
+    "download": "node scripts/download-factorial-payslips.js",
+    "remove": "node scripts/remove-files-by-filter.js"
   },
   "dependencies": {
     "axios": "1.6.7",
