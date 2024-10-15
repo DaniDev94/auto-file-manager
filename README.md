@@ -1,4 +1,4 @@
-# download-factorialhr-files
+# auto-file-manager
 
 This repository was created out of necessity and serves to download all the files from the FactorialHR website. This is because the website lacks a button or functionality to download all files at once, requiring manual download of each file individually.
 
